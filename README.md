@@ -14,16 +14,17 @@ We aim to build a machine learning model to classify a person's actions from a s
   The dataset has been collected as part of an experiment consisting of a group of 30 volunteers aged 19-48. They performed six different activities while wearing a waist-mounted smartphone equipped with accelerometer and gyroscope sensors. 
 
 
-How was it collected:
-•	The dataset was collected from 30 individuals, referred to as "subjects" in this dataset, who wore smartphones attached to their waists while performing various activities.
-•	During these activities, data was recorded using sensors, specifically accelerometers and gyroscopes, integrated into the smartphones. 
-•	To ensure accuracy and reliability, the experiment was also video recorded, and the collected data was manually labeled.
-What does it contain:
-•	Total 563 features including the Subject and Activity.
-•	Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
-•	Using the sensors, the dataset captures two main types of signals: '3-axial linear acceleration' (tAcc-XYZ) from the accelerometer and '3-axial angular velocity' (tGyro-XYZ) from the gyroscope. These signals come with multiple variations. 
-•	To prepare the data for analysis, it underwent preprocessing, including the application of noise filters. 
-•	The dataset was then sampled in fixed-width windows, each lasting 2.56 seconds and overlapping by 50%. As a result, each window contains 128 readings, providing a comprehensive set of data for further analysis.
+- How was it collected:
+  - The dataset was collected from 30 individuals, referred to as "subjects" in this dataset, who wore smartphones attached to their waists while performing various activities.
+  - During these activities, data was recorded using sensors, specifically accelerometers and gyroscopes, integrated into the smartphones. 
+  - To ensure accuracy and reliability, the experiment was also video recorded, and the collected data was manually labeled.
+
+- What does it contain:
+  - Total 563 features including the Subject and Activity.
+  - Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
+  - Using the sensors, the dataset captures two main types of signals: '3-axial linear acceleration' (tAcc-XYZ) from the accelerometer and '3-axial angular velocity' (tGyro-XYZ) from the gyroscope. These signals come with multiple variations. 
+  - To prepare the data for analysis, it underwent preprocessing, including the application of noise filters. 
+  - The dataset was then sampled in fixed-width windows, each lasting 2.56 seconds and overlapping by 50%. As a result, each window contains 128 readings, providing a comprehensive set of data for further analysis.
 
 # Who collected the dataset:
 The data has been gathered by the following contributors:
