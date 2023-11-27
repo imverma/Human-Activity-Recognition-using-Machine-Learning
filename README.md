@@ -12,7 +12,9 @@ We aim to build a machine learning model to classify a person's actions from a s
 # Details on the dataset
 - Dataset:
   
-The dataset has been collected as part of an experiment consisting of a group of 30 volunteers aged 19-48. They performed six different activities while wearing a waist-mounted smartphone equipped with accelerometer and gyroscope sensors. 
+- The dataset has been collected as part of an experiment consisting of a group of 30 volunteers aged 19-48. They performed six different activities while wearing a waist-mounted smartphone equipped with accelerometer and gyroscope sensors. 
+
+
 How was it collected:
 •	The dataset was collected from 30 individuals, referred to as "subjects" in this dataset, who wore smartphones attached to their waists while performing various activities.
 •	During these activities, data was recorded using sensors, specifically accelerometers and gyroscopes, integrated into the smartphones. 
