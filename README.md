@@ -11,7 +11,7 @@ We aim to build a machine learning model to classify a person's actions from a s
 
 # Details on the dataset
 - Dataset:
-  The dataset has been collected as part of an experiment consisting of a group of 30 volunteers aged 19-48. They performed six different activities while wearing a waist-mounted smartphone equipped with accelerometer and gyroscope sensors. 
+  - The dataset has been collected as part of an experiment consisting of a group of 30 volunteers aged 19-48. They performed six different activities while wearing a waist-mounted smartphone equipped with accelerometer and gyroscope sensors. 
 
 
 - How was it collected:
@@ -27,12 +27,12 @@ We aim to build a machine learning model to classify a person's actions from a s
   - The dataset was then sampled in fixed-width windows, each lasting 2.56 seconds and overlapping by 50%. As a result, each window contains 128 readings, providing a comprehensive set of data for further analysis.
 
 # Who collected the dataset:
-The data has been gathered by the following contributors:
-Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2).
-1 - Smartlab - Non-Linear Complex Systems Laboratory
-DITEN - Universit‡  degli Studi di Genova, Genoa (I-16145), Italy. 
-2 - CETpD - Technical Research Centre for Dependency Care and Autonomous Living
-Universitat PolitËcnica de Catalunya (BarcelonaTech). Vilanova i la Geltr˙ (08800), Spain.
+- The data has been gathered by the following contributors:
+  - Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2).
+  - 1 - Smartlab - Non-Linear Complex Systems Laboratory
+  - DITEN - Universit‡  degli Studi di Genova, Genoa (I-16145), Italy. 
+  - 2 - CETpD - Technical Research Centre for Dependency Care and Autonomous Living
+  - Universitat PolitËcnica de Catalunya (BarcelonaTech). Vilanova i la Geltr˙ (08800), Spain.
 
 # Link to the dataset: 
 https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
