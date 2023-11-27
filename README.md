@@ -1,4 +1,4 @@
-# Human Activity Recognition using Machine-Learning
+# Human Activity Recognition using Machine Learning
 
 # The Business Problem
 We aim to build a machine learning model to classify a person's actions from a series of measurements captured by sensors. We train our model using the Human Activity Recognition dataset, which is built from recordings of 30 subjects performing daily activities through sensors in their smartphones. We will use suitable models and metrics for this task and evaluate the best model performance. 
